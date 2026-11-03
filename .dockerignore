@@ -1,0 +1,13 @@
+node_modules
+dist
+.git
+.gitignore
+test
+*.log
+npm-debug.log*
+pnpm-debug.log*
+.prettierrc
+.oxlintrc.json
+vitest.config*.ts
+AGENTS.md
+README.md
